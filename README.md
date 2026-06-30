@@ -39,5 +39,5 @@ The repository is organized following standard project management and systems en
             ├── aissaBrain.py
             └── mouth.py
 ```
-### Authors
+## Authors
 Gustavo Martinez, Miguel Hernandez, Lucio Ruiz, Rodrigo Bernal and Enrique Gracian
