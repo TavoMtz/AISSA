@@ -1,0 +1,5 @@
+AISSA/
+__pycache__/
+*.jpg
+.vscode/
+.venv/
